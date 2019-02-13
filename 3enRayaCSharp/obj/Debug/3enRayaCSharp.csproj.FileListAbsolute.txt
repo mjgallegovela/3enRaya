@@ -1,0 +1,10 @@
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\bin\Debug\3enRayaCSharp.exe.config
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\bin\Debug\3enRayaCSharp.exe
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\bin\Debug\3enRayaCSharp.pdb
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\3enRayaCSharp.csprojAssemblyReference.cache
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\_3enRayaCSharp.Form1.resources
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\_3enRayaCSharp.Properties.Resources.resources
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\3enRayaCSharp.csproj.GenerateResource.cache
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\3enRayaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\3enRayaCSharp.exe
+C:\Users\galda\OneDrive\Documentos\Desarrollo\VisulBasic\3enRayaCSharp\3enRayaCSharp\obj\Debug\3enRayaCSharp.pdb
